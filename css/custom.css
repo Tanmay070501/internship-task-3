@@ -590,6 +590,11 @@ footer svg{
     font-weight: 700;
 }
 
+
+button:hover{
+    cursor: pointer;
+}
+
 @media (min-width: 576px) { 
     .card-grid{
         display: grid;
