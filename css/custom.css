@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+html,body{
+    overflow-x: hidden;
+}
 .black{
     background-color: black;
     color: white;
@@ -588,11 +591,6 @@ footer svg{
 .absolute-content h4{
     font-size: 2rem;
     font-weight: 700;
-}
-
-
-button:hover{
-    cursor: pointer;
 }
 
 @media (min-width: 576px) { 
